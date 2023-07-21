@@ -1,0 +1,42 @@
+body{
+    background-color: aqua;
+}
+
+
+.new{
+    overflow: hidden;
+}
+
+.new figure{
+    width: 160%;
+    position: relative;
+    animation: new1 30s infinite;
+
+}
+
+.new figure img{
+    width: 20%;
+    float: left;
+}
+
+@keyframes new1{
+    0%{
+        left: 0%;
+    }
+
+    20%{
+        left: 0%;
+    }
+
+    40%{
+        left: -100%;
+    }
+    50%{
+        left: -100%;
+
+    }
+    60%{
+        left: 10%;
+    }
+}
+

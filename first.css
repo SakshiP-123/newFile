@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: blueviolet;
+    text-align: center;
+}
+label{
+ color: azure;
+ font-size: larger;
+ 
+
+}
+button{
+    background-color: darkred;
+    padding: 15px 20px;
+    font-size: medium;
+    cursor: pointer;
+    color: azure;
+    
+}

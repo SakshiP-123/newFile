@@ -1,0 +1,27 @@
+body{
+    background-color: darkseagreen;
+    
+}
+
+
+h1{
+    text-align: center;
+    color: darkblue;
+}
+
+h2{
+    text-align: center;
+    color: crimson;
+}
+
+label{
+    padding: 8px;
+    font-size: larger;
+}
+
+button{
+    font-size: 30px;
+    cursor: pointer;
+    background-color: black;
+    color:white;
+}
